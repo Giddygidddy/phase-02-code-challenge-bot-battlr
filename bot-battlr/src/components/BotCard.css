@@ -1,0 +1,17 @@
+/* BotCard.css */
+.bot-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .bot-card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
